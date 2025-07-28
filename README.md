@@ -13,13 +13,13 @@ This project was created to collect and analyze tuition fee data for Computer En
 
 # System Objectives
 
-1.Present tuition fee data through an interactive dashboard
+- Present tuition fee data through an interactive dashboard
 
-2.Compare tuition fees by university and academic program
+- Compare tuition fees by university and academic program
 
-3.Search and filter information by university name or program name
+- Search and filter information by university name or program name
 
-4.Assist students in making informed decisions about their education choices
+- Assist students in making informed decisions about their education choices
 
 # Technologies Used
 - Python for data extraction and processing (Web Scraping)
@@ -32,6 +32,8 @@ This project was created to collect and analyze tuition fee data for Computer En
 
 - CSV for initial data storage
 
+- Dashboard for analysis data
+  
 #  Data Source
 -  [TCAS Program Information Portal](https://tcas.mytcas.com)
 
