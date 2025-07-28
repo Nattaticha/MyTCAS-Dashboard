@@ -7,11 +7,11 @@ An interactive dashboard displaying tuition fee information for the following un
 
 from all universities participating in the TCAS (Thai University Central Admission System)
 
-# 🧾 Project Description
+# Project Description
 
 This project was created to collect and analyze tuition fee data for Computer Engineering and Artificial Intelligence Engineering programs from the TCAS website. The main goal is to provide clear and accessible comparative insights into educational expenses across different universities in Thailand.
 
-# 🎯 System Objectives
+# System Objectives
 
 1.Present tuition fee data through an interactive dashboard
 
@@ -21,4 +21,21 @@ This project was created to collect and analyze tuition fee data for Computer En
 
 4.Assist students in making informed decisions about their education choices
 
+# Technologies Used
+- Python for data extraction and processing (Web Scraping)
+
+- Playwright for scraping data from the TCAS website
+
+- Pandas for data manipulation and analysis
+
+- Plotly Dash or Streamlit for building the interactive dashboard
+
+- CSV for initial data storage
+
+#  Data Source
+-  [TCAS Program Information Portal](https://tcas.mytcas.com)
+
+# Author
+- Nattaticha Wongdet
+- email: nattatichawongdet@gmail.com
 
